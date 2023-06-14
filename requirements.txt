@@ -10,3 +10,6 @@ setuptools==65.6.3 ; python_version >= '3.7'
 werkzeug==2.2.2 ; python_version >= '3.7'
 zipp==3.11.0 ; python_version >= '3.7'
 yfinance==0.2.18
+APScheduler~=3.10.1
+DateTime~=5.1
+python-dotenv==1.0.0
